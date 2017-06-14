@@ -1,0 +1,12 @@
+=== Paul Merlin
+
+* Principal Engineer at Gradle Inc.
+* Writer of Software
+* Dry Stone Builder
+* Wine Lover
+
+[NOTE.speaker]
+--
+I have been jumping between Performance and Kotlin DSL teams lately.
+I Live in Montpellier, France, seasonally in Cévennes forest.
+--
